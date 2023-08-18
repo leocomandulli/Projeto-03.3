@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Site é do tipo espositivo. A página visa aplicar estudos e conceitos de responsividade.
+O Site é do tipo expositivo. A página visa aplicar estudos e conceitos de responsividade.
 
 ## 🔖 Layout
 
